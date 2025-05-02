@@ -5,4 +5,4 @@
 
 ![Login Page Screenshot](login.png)
 ![Home Page Screenshot](home.png)
-![Profile Page Screenshot](pome.png)
+![Profile Page Screenshot](profile.png)
